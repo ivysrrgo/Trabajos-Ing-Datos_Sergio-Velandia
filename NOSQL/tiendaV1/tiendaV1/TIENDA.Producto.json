@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "68126f9adb7150bf1981820a"
+  },
+  "nombre": "Teclado",
+  "precio": 50000,
+  "cantidad": 10,
+  "enOferta": true
+},
+{
+  "_id": {
+    "$oid": "68126fb6db7150bf1981820b"
+  },
+  "nombre": "Mouse",
+  "precio": 50000,
+  "cantidad": 10,
+  "enOferta": true
+},
+{
+  "_id": {
+    "$oid": "68126fd1db7150bf1981820c"
+  },
+  "nombre": "Monitor",
+  "precio": 120000,
+  "cantidad": 10
+},
+{
+  "_id": {
+    "$oid": "6812736ddb7150bf1981820d"
+  },
+  "nombre": "Laptop",
+  "precio": 120000,
+  "cantidad": 10
+}]

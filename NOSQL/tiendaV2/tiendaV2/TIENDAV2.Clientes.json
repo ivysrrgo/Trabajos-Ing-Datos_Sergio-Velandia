@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "681907c9baa1f86b6949efe5"
+  },
+  "nombre": "Sergio",
+  "correo": "servel@gmail.com",
+  "numero": 3505002119,
+  "direccion": "Av.68"
+},
+{
+  "_id": {
+    "$oid": "681907debaa1f86b6949efe6"
+  },
+  "nombre": "Peña",
+  "correo": "daspeña@gmail.com",
+  "numero": 3115811617,
+  "direccion": "Av.Boyaca"
+},
+{
+  "_id": {
+    "$oid": "681907debaa1f86b6949efe7"
+  },
+  "nombre": "Bahos",
+  "correo": "jbahos@gmail.com",
+  "numero": 3103294878,
+  "dirreccion": "Cra 70"
+},
+{
+  "_id": {
+    "$oid": "68190a6ee5a9408085ebb948"
+  },
+  "nombre": "Sergio",
+  "direccion": "Cra 70",
+  "correo": "sergiovelandia@gmail.com",
+  "cedula": "1028483288",
+  "numero": 3203304878
+}]

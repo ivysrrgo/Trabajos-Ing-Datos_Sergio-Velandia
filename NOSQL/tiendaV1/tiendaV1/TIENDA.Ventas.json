@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6819019cf6eb462fd2afdde8"
+  },
+  "nombre": "Daniel",
+  "Producto": "Laptop",
+  "cantidad": 1
+},
+{
+  "_id": {
+    "$oid": "6819019cf6eb462fd2afdde9"
+  },
+  "nombre": "Porras",
+  "producto": "Mouse",
+  "cantidad": 2
+},
+{
+  "0": {
+    "nombre": "Sergio",
+    "Producto": "Mouse",
+    "cantidad": 3
+  },
+  "_id": {
+    "$oid": "68190211f6eb462fd2afddea"
+  }
+}]
